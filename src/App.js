@@ -76,7 +76,7 @@ function App() {
       status: "",
       tech: "",
       desc: "โปรเจคเว็บ พัฒนาด้วย html,css,javascript",
-      fullDesc: "เว็บไซต์ส่วนตัวและโปรเจคเว็บต่างๆ พัฒนาด้วยเทคโนโลยีพื้นฐานอย่าง HTML, CSS และ JavaScript",
+      fullDesc: "เว็บไซต์ส่วนตัวและโปรเจคเว็บต่างๆ พัฒนาด้วย HTML, CSS และ JavaScript",
       details: [
         { 
           title: "Frontend", 
